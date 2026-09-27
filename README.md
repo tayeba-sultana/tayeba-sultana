@@ -15,7 +15,7 @@ Hi, I'm **Tayeba Sultana**,An undergraduate **CSE Student**.
 
 
 
-## 🛠️ Technologies & Tools
+## Skills
 
 ### Programming Languages:
 
