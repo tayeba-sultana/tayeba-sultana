@@ -11,11 +11,12 @@
 
 Hi, I'm **Tayeba Sultana**,An undergraduate **CSE Student**.
 
-💻 Currently learning and building projects with modern web technologies.
-🌐 Interested in developing practical, scalable, and user-friendly web applications.
-🔬 Research-oriented with a growing interest in computer science and machine learning.
-📚 Continuously developing programming, problem-solving, and software development skills.
+💻 Currently learning and building projects with modern web technologies.<br>
+🌐 Interested in developing practical, scalable, and user-friendly web applications.<br>
+🔬 Research-oriented with a growing interest in computer science and machine learning.<br>
+📚 Continuously developing programming, problem-solving, and software development skills.<br>
 🤝 Open to collaborating on web development, research, and innovative technology projects.
+
 
 
 ## 🛠️ Technologies & Tools
