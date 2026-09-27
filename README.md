@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="./banner/github_banner.png" alt="Tayeba Sultana" width="1983" height="793">
-</p>
+
 
 <h1 align="center">Hi, I'm Tayeba Sultana</h1>
 
