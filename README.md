@@ -1,32 +1,86 @@
+h1 align="center">Hi, I'm Tayeba Sultana</h1>
 
-<h1 align="center">Hi 👋, I'm Tayeba Sultana</h1>
-<h3 align="center">An enthusiastic full-stack development learner, building projects and exploring research in computer science.</h3>
+<p align="center">
+ <a href="staiba140@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  
+## About Me
+
+Hi, I'm **Tayeba Sultana**,An undergraduate **CSE Student**.
+
+💻 Currently learning and building projects with modern web technologies.
+🌐 Interested in developing practical, scalable, and user-friendly web applications.
+🔬 Research-oriented with a growing interest in computer science and machine learning.
+📚 Continuously developing programming, problem-solving, and software development skills.
+🤝 Open to collaborating on web development, research, and innovative technology projects.
+
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages:
+
+<p>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40">
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java">
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend Development:
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5">
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind">
+</p>
+
+### Backend Languages:
+<p>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="NextJS">
+    <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express">
+
+### Database:
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB">
+  
+</p>
+
+### Design & Graphics:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=ps" width="50" alt="Adobe Photoshop">
+</p>
+
+### Tools & Technologies:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
+</p>
+
+
+
+## Find me on:
+
+<p align="left">
+<a href="https://www.facebook.com/share/1LcynqR7eo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taiba sultana"  width="50" /></a>
+<a href="https://www.instagram.com/_taiba_278?stkn=NzZkbWJ1aXJsbXV5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_taiba_278"  width="50" /></a>
+<a href="https://codeforces.com/profile/tayeba_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tayeba_01" width="50" /></a>
+</p>
+
+
+## 📊 GITHUB STATISTICS & ANALYSIS
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayeba-sultana&show_icons=true&locale=en&layout=compact" alt="tayeba-sultana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayeba-sultana&show_icons=true&locale=en" alt="tayeba-sultana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayeba-sultana&" alt="tayeba-sultana" /></p>
-
-
-<!--
-**tayeba-sultana/tayeba-sultana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
