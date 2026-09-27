@@ -1,14 +1,16 @@
-<h1 align="center">Hi, I'm Tayeba Sultana</h1>
 
 <p align="center">
   <img src="./banner/github_banner.png" alt="Tayeba Sultana" width="1983" height="793">
 </p>
+
+<h1 align="center">Hi, I'm Tayeba Sultana</h1>
 
 <p align="center">
  <a href="staiba140@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   </p>
+
 
   
 ## About Me
