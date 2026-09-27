@@ -58,7 +58,7 @@ Hi, I'm **Tayeba Sultana**,An undergraduate **CSE Student**.
   <img src="https://skillicons.dev/icons?i=ps" width="50" alt="Adobe Photoshop">
 </p>
 
-### Tools & Technologies:
+### Tools:
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
