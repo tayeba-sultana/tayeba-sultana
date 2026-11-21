@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="./banner/github-banner.png" alt="Tayeba Sultana" width="1985" height="795">
-</p>
+ <a href="staiba140@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  </p>
+
 
 
 ## About Me
